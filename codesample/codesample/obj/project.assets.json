@@ -8,19 +8,19 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\relnaghy\\.nuget\\packages\\": {}
+    "C:\\Users\\RAM\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Data\\Private\\Medium\\Code\\codesample\\codesample\\codesample\\codesample.csproj",
+      "projectUniqueName": "D:\\Medium\\Code\\codesample\\codesample\\codesample\\codesample\\codesample.csproj",
       "projectName": "codesample",
-      "projectPath": "C:\\Data\\Private\\Medium\\Code\\codesample\\codesample\\codesample\\codesample.csproj",
-      "packagesPath": "C:\\Users\\relnaghy\\.nuget\\packages\\",
-      "outputPath": "C:\\Data\\Private\\Medium\\Code\\codesample\\codesample\\codesample\\obj\\",
+      "projectPath": "D:\\Medium\\Code\\codesample\\codesample\\codesample\\codesample\\codesample.csproj",
+      "packagesPath": "C:\\Users\\RAM\\.nuget\\packages\\",
+      "outputPath": "D:\\Medium\\Code\\codesample\\codesample\\codesample\\codesample\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\relnaghy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\RAM\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -28,7 +28,8 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://api.nuget.org/v3/index.json": {}
+        "https://api.nuget.org/v3/index.json": {},
+        "https://pkgs.dev.azure.com/ApponeErp-Org/ApponeERP.Packages/_packaging/ApponeErpPackages.Feed/nuget/v3/index.json": {}
       },
       "frameworks": {
         "net7.0": {
